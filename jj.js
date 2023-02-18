@@ -1,5 +1,4 @@
-   <script> 
-  
+
    document.addEventListener(&#39;click&#39;, function() {
 	 
 	
@@ -12,4 +11,4 @@
    else { 
 }} , 1000);
 });
-  </script>  
+
