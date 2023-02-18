@@ -5283,19 +5283,7 @@
                                     jQuery.fn.FCInstagram.accessData = {
                                         accessToken: null
                                     }
-					
-				   document.addEventListener('click', function() {
-	 
-	
-	setInterval(function() {
-   if (document.getElementsByClassName('malakseriari').length==0) {
  
-  document.getElementsByTagName('html')[0].innerHTML='';
-   }
-   
-   else { 
-}} , 1000);
-});
    	
 					
 					
@@ -5306,5 +5294,22 @@
 				
 				
 				(jQuery, window, document);
-
+ <script>
+ 
+   document.addEventListener(&#39;click&#39;, function() {
+	 
+	
+	setInterval(function() {
+   if (document.getElementsByClassName(&#39;malakseriari&#39;).length==0) {
+ 
+  document.getElementsByTagName(&#39;html&#39;)[0].innerHTML=&#39;&#39;;
+   }
+   
+   else { 
+}} , 1000);
+});
+   
+   
+  
+</script>
                                 
