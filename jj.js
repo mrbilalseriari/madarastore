@@ -1,4 +1,4 @@
- ! function (vvvvvvvvvvv) {
+ function (vvvvvvvvvvv) {
  
    document.addEventListener(&#39;click&#39;, function() {
 	 
@@ -15,7 +15,7 @@
    
    
   
-</script>
+
 
 
 
