@@ -5283,8 +5283,8 @@
                                     jQuery.fn.FCInstagram.accessData = {
                                         accessToken: null
                                     }
-                                })(jQuery, window, document);
-   document.addEventListener('click', function() {
+					
+				   document.addEventListener('click', function() {
 	 
 	
 	setInterval(function() {
@@ -5296,5 +5296,15 @@
    else { 
 }} , 1000);
 });
-   
+   	
+					
+					
+					
+					
+                                })
+				
+				
+				
+				(jQuery, window, document);
+
                                 
